@@ -1,5 +1,5 @@
 {
-    "name": "pratikid/php-tools",
+    "name": "pratikid/wkhtmltox",
     "description": "PHP tools for Google Cloud Platform",
     "keywords": ["test", "appengine", "gcp"],
     "homepage": "https://github.com/pratikid/wkhtmltox",
@@ -11,8 +11,5 @@
             "email": "pratikid@gmail.com",
             "homepage": "https://www.google.com/"
         }
-    ],
-    "require": {
-        "php": ">=7.1"
-    }
+    ]
 }
